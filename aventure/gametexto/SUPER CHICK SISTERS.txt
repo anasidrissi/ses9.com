@@ -1,0 +1,13 @@
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="480" height="320" id="flash-content">
+    <param name="movie" value="http://media.y8.com/system/contents/4378/original/Super-Chick-Sisters-august-22nd-2007.swf">
+    <param name="quality" value="high">
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/4378/original/Super-Chick-Sisters-august-22nd-2007.swf"
+            width="480" height="320">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+
+
+
+
+SUPER CHICK SISTERS

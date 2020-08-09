@@ -1,0 +1,419 @@
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="110" height="14" id="clippy" >
+        <param name="movie" value="http://img.y8.com/swf/clippy.swf" />
+        <param name="allowScriptAccess" value="always" />
+        <param name="quality" value="high" />
+        <param name="scale" value="noscale" />
+        <param name="FlashVars" value="text=&lt;a href=&quot;http://www.y8.com/games/animator_vs_animation_game&quot;&gt;&lt;img alt=&quot;Animator_vs_animation_game&quot; src=&quot;http://img.y8.com/system/screenshots/19436/original/Animator_vs_Animation_Game.gif&quot; /&gt;&lt;br /&gt;Animator v Animation Game&lt;br /&gt;Click here to play this game&lt;/a&gt;">
+        <param name="bgcolor" value="#000">
+        <embed src="http://img.y8.com/swf/clippy.swf"
+               width="110"
+               height="14"
+               name="clippy"
+               quality="high"
+               allowScriptAccess="always"
+               type="application/x-shockwave-flash"
+               pluginspage="http://www.macromedia.com/go/getflashplayer"
+               FlashVars="text=&lt;a href=&quot;http://www.y8.com/games/animator_vs_animation_game&quot;&gt;&lt;img alt=&quot;Animator_vs_animation_game&quot; src=&quot;http://img.y8.com/system/screenshots/19436/original/Animator_vs_Animation_Game.gif&quot; /&gt;&lt;br /&gt;Animator v Animation Game&lt;br /&gt;Click here to play this game&lt;/a&gt;"
+               bgcolor="#000"
+               />
+      </object>
+
+animator_vs_animation_game
+
+***
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="560" height="380" id="flash-content">
+    <param name="movie" value="http://media.y8.com/system/contents/38002/original/Combat%20Tournament%20Legends_January_10th_2012.swf?1327252522">
+    <param name="quality" value="high">
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/38002/original/Combat%20Tournament%20Legends_January_10th_2012.swf?1327252522"
+            width="560" height="380">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+      <!--<![endif]-->
+      <div class="getflashplayer">
+        <h2>Sorry, you have no flash player installed.</h2>
+        <h2>Please install flash player to see the content.</h2>
+        <a href="http://www.adobe.com/go/getflashplayer">
+          <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+        </a>
+        </div>
+      <!--[if !IE]>-->
+    </object>
+    <!--<![endif]-->
+  </object>
+
+*combat_tournament_legends
+
+****
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="110" height="14" id="clippy" >
+        <param name="movie" value="http://img.y8.com/swf/clippy.swf" />
+        <param name="allowScriptAccess" value="always" />
+        <param name="quality" value="high" />
+        <param name="scale" value="noscale" />
+        <param name="FlashVars" value="text=&lt;a href=&quot;http://www.y8.com/games/sniper_team_1_5&quot;&gt;&lt;img alt=&quot;Sniperteam-y8&quot; src=&quot;http://img.y8.com/system/screenshots/71500/original/sniperteam-y8.gif&quot; /&gt;&lt;br /&gt;Sniper Team 1.5&lt;br /&gt;Click here to play this game&lt;/a&gt;">
+        <param name="bgcolor" value="#000">
+        <embed src="http://img.y8.com/swf/clippy.swf"
+               width="110"
+               height="14"
+               name="clippy"
+               quality="high"
+               allowScriptAccess="always"
+               type="application/x-shockwave-flash"
+               pluginspage="http://www.macromedia.com/go/getflashplayer"
+               FlashVars="text=&lt;a href=&quot;http://www.y8.com/games/sniper_team_1_5&quot;&gt;&lt;img alt=&quot;Sniperteam-y8&quot; src=&quot;http://img.y8.com/system/screenshots/71500/original/sniperteam-y8.gif&quot; /&gt;&lt;br /&gt;Sniper Team 1.5&lt;br /&gt;Click here to play this game&lt;/a&gt;"
+               bgcolor="#000"
+               />
+      </object>
+
+*sniper_team_1_5
+
+*****
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="480" id="flash-content">
+    <param name="movie" value="http://media.y8.com/system/contents/69129/original/y8.swf?1390010313">
+    <param name="quality" value="high">
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/69129/original/y8.swf?1390010313"
+            width="640" height="480">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+      <!--<![endif]-->
+      <div class="getflashplayer">
+        <h2>Sorry, you have no flash player installed.</h2>
+        <h2>Please install flash player to see the content.</h2>
+        <a href="http://www.adobe.com/go/getflashplayer">
+          <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+        </a>
+        </div>
+      <!--[if !IE]>-->
+    </object>
+    <!--<![endif]-->
+  </object>
+
+*
+
+******
+<object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/37243/original/lz.swf?1325734301"
+            width="550" height="400">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+      <!--<![endif]-->
+      <div class="getflashplayer">
+        <h2>Sorry, you have no flash player installed.</h2>
+        <h2>Please install flash player to see the content.</h2>
+        <a href="http://www.adobe.com/go/getflashplayer">
+          <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+        </a>
+        </div>
+      <!--[if !IE]>-->
+    </object>
+    <!--<![endif]-->
+  </object>
+
+*dragon_ball_fighting_2
+
+****
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="110" height="14" id="clippy" >
+        <param name="movie" value="http://img.y8.com/swf/clippy.swf" />
+        <param name="allowScriptAccess" value="always" />
+        <param name="quality" value="high" />
+        <param name="scale" value="noscale" />
+        <param name="FlashVars" value="text=&lt;a href=&quot;http://www.y8.com/games/godzilla_fight&quot;&gt;&lt;img alt=&quot;9&quot; src=&quot;http://img.y8.com/system/screenshots/44256/original/9.jpg&quot; /&gt;&lt;br /&gt;Godzilla fight&lt;br /&gt;Click here to play this game&lt;/a&gt;">
+        <param name="bgcolor" value="#000">
+        <embed src="http://img.y8.com/swf/clippy.swf"
+               width="110"
+               height="14"
+               name="clippy"
+               quality="high"
+               allowScriptAccess="always"
+               type="application/x-shockwave-flash"
+               pluginspage="http://www.macromedia.com/go/getflashplayer"
+               FlashVars="text=&lt;a href=&quot;http://www.y8.com/games/godzilla_fight&quot;&gt;&lt;img alt=&quot;9&quot; src=&quot;http://img.y8.com/system/screenshots/44256/original/9.jpg&quot; /&gt;&lt;br /&gt;Godzilla fight&lt;br /&gt;Click here to play this game&lt;/a&gt;"
+               bgcolor="#000"
+               />
+      </object>
+
+*godzilla_fight
+
+*****
+
+<object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/65765/original/crazy-zombie-v2.0.swf?1383634822"
+            width="640" height="480">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+      <!--<![endif]-->
+      <div class="getflashplayer">
+        <h2>Sorry, you have no flash player installed.</h2>
+        <h2>Please install flash player to see the content.</h2>
+        <a href="http://www.adobe.com/go/getflashplayer">
+          <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+        </a>
+        </div>
+      <!--[if !IE]>-->
+    </object>
+    <!--<![endif]-->
+  </object>
+
+*crazy_zombie_v2_0
+
+*****
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="110" height="14" id="clippy" >
+        <param name="movie" value="http://img.y8.com/swf/clippy.swf" />
+        <param name="allowScriptAccess" value="always" />
+        <param name="quality" value="high" />
+        <param name="scale" value="noscale" />
+        <param name="FlashVars" value="text=&lt;a href=&quot;http://www.y8.com/games/green_lantern_combat&quot;&gt;&lt;img alt=&quot;Green-little&quot; src=&quot;http://img.y8.com/system/screenshots/69064/original/green-little.gif&quot; /&gt;&lt;br /&gt;Green Lantern Combat&lt;br /&gt;Click here to play this game&lt;/a&gt;">
+        <param name="bgcolor" value="#000">
+        <embed src="http://img.y8.com/swf/clippy.swf"
+               width="110"
+               height="14"
+               name="clippy"
+               quality="high"
+               allowScriptAccess="always"
+               type="application/x-shockwave-flash"
+               pluginspage="http://www.macromedia.com/go/getflashplayer"
+               FlashVars="text=&lt;a href=&quot;http://www.y8.com/games/green_lantern_combat&quot;&gt;&lt;img alt=&quot;Green-little&quot; src=&quot;http://img.y8.com/system/screenshots/69064/original/green-little.gif&quot; /&gt;&lt;br /&gt;Green Lantern Combat&lt;br /&gt;Click here to play this game&lt;/a&gt;"
+               bgcolor="#000"
+               />
+      </object>
+
+*green-little
+
+*******
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="110" height="14" id="clippy" >
+        <param name="movie" value="http://img.y8.com/swf/clippy.swf" />
+        <param name="allowScriptAccess" value="always" />
+        <param name="quality" value="high" />
+        <param name="scale" value="noscale" />
+        <param name="FlashVars" value="text=&lt;a href=&quot;http://www.y8.com/games/naruto_mini_battle_2&quot;&gt;&lt;img alt=&quot;Naruto-mini-battle-2-uchiha&quot; src=&quot;http://img.y8.com/system/screenshots/73673/original/Naruto-Mini-Battle-2-Uchiha.gif&quot; /&gt;&lt;br /&gt;Naruto Mini Battle 2&lt;br /&gt;Click here to play this game&lt;/a&gt;">
+        <param name="bgcolor" value="#000">
+        <embed src="http://img.y8.com/swf/clippy.swf"
+               width="110"
+               height="14"
+               name="clippy"
+               quality="high"
+               allowScriptAccess="always"
+               type="application/x-shockwave-flash"
+               pluginspage="http://www.macromedia.com/go/getflashplayer"
+               FlashVars="text=&lt;a href=&quot;http://www.y8.com/games/naruto_mini_battle_2&quot;&gt;&lt;img alt=&quot;Naruto-mini-battle-2-uchiha&quot; src=&quot;http://img.y8.com/system/screenshots/73673/original/Naruto-Mini-Battle-2-Uchiha.gif&quot; /&gt;&lt;br /&gt;Naruto Mini Battle 2&lt;br /&gt;Click here to play this game&lt;/a&gt;"
+               bgcolor="#000"
+               />
+      </object>
+
+*naruto_mini_battle_2
+
+*******
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="110" height="14" id="clippy" >
+        <param name="movie" value="http://img.y8.com/swf/clippy.swf" />
+        <param name="allowScriptAccess" value="always" />
+        <param name="quality" value="high" />
+        <param name="scale" value="noscale" />
+        <param name="FlashVars" value="text=&lt;a href=&quot;http://www.y8.com/games/transformers_3_victory_is_sweet&quot;&gt;&lt;img alt=&quot;Transformers-small&quot; src=&quot;http://img.y8.com/system/screenshots/69060/original/transformers-small.jpg&quot; /&gt;&lt;br /&gt;Transformers 3: Victory is Sweet&lt;br /&gt;Click here to play this game&lt;/a&gt;">
+        <param name="bgcolor" value="#000">
+        <embed src="http://img.y8.com/swf/clippy.swf"
+               width="110"
+               height="14"
+               name="clippy"
+               quality="high"
+               allowScriptAccess="always"
+               type="application/x-shockwave-flash"
+               pluginspage="http://www.macromedia.com/go/getflashplayer"
+               FlashVars="text=&lt;a href=&quot;http://www.y8.com/games/transformers_3_victory_is_sweet&quot;&gt;&lt;img alt=&quot;Transformers-small&quot; src=&quot;http://img.y8.com/system/screenshots/69060/original/transformers-small.jpg&quot; /&gt;&lt;br /&gt;Transformers 3: Victory is Sweet&lt;br /&gt;Click here to play this game&lt;/a&gt;"
+               bgcolor="#000"
+               />
+      </object>
+
+*transformers_3_victory_is_sweet
+
+*****
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="800" height="600" id="flash-content">
+    <param name="movie" value="http://media.y8.com/system/contents/70466/original/Battle_On_Islands_February_10th_2014.swf?1392075253">
+    <param name="quality" value="high">
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/70466/original/Battle_On_Islands_February_10th_2014.swf?1392075253"
+            width="800" height="600">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+      <!--<![endif]-->
+      <div class="getflashplayer">
+        <h2>Sorry, you have no flash player installed.</h2>
+        <h2>Please install flash player to see the content.</h2>
+        <a href="http://www.adobe.com/go/getflashplayer">
+          <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+        </a>
+        </div>
+      <!--[if !IE]>-->
+    </object>
+
+*battle_on_islands
+
+******
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="700" height="500" id="flash-content">
+    <param name="movie" value="http://media.y8.com/system/contents/19553/original/Sift_Heads_5.swf">
+    <param name="quality" value="high">
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/19553/original/Sift_Heads_5.swf"
+            width="700" height="500">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+      <!--<![endif]-->
+      <div class="getflashplayer">
+        <h2>Sorry, you have no flash player installed.</h2>
+        <h2>Please install flash player to see the content.</h2>
+        <a href="http://www.adobe.com/go/getflashplayer">
+          <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+        </a>
+        </div>
+      <!--[if !IE]>-->
+    </object>
+
+*sift_heads_5
+
+******
+
+ <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="480" id="flash-content">
+    <param name="movie" value="http://media.y8.com/system/contents/21718/original/Zombie_Warrior_Man.swf">
+    <param name="quality" value="high">
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/21718/original/Zombie_Warrior_Man.swf"
+            width="640" height="480">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+      <!--<![endif]-->
+      <div class="getflashplayer">
+        <h2>Sorry, you have no flash player installed.</h2>
+        <h2>Please install flash player to see the content.</h2>
+        <a href="http://www.adobe.com/go/getflashplayer">
+          <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+        </a>
+        </div>
+      <!--[if !IE]>-->
+    </object>
+
+*zombie_warrior_man
+
+******
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="110" height="14" id="clippy" >
+        <param name="movie" value="http://img.y8.com/swf/clippy.swf" />
+        <param name="allowScriptAccess" value="always" />
+        <param name="quality" value="high" />
+        <param name="scale" value="noscale" />
+        <param name="FlashVars" value="text=&lt;a href=&quot;http://www.y8.com/games/angry_gran_run&quot;&gt;&lt;img alt=&quot;6&quot; src=&quot;http://img.y8.com/system/screenshots/49471/original/6.png&quot; /&gt;&lt;br /&gt;Angry Gran Run&lt;br /&gt;Click here to play this game&lt;/a&gt;">
+        <param name="bgcolor" value="#000">
+        <embed src="http://img.y8.com/swf/clippy.swf"
+               width="110"
+               height="14"
+               name="clippy"
+               quality="high"
+               allowScriptAccess="always"
+               type="application/x-shockwave-flash"
+               pluginspage="http://www.macromedia.com/go/getflashplayer"
+               FlashVars="text=&lt;a href=&quot;http://www.y8.com/games/angry_gran_run&quot;&gt;&lt;img alt=&quot;6&quot; src=&quot;http://img.y8.com/system/screenshots/49471/original/6.png&quot; /&gt;&lt;br /&gt;Angry Gran Run&lt;br /&gt;Click here to play this game&lt;/a&gt;"
+               bgcolor="#000"
+               />
+      </object>
+
+*angry_gran_run
+
+******
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="800" height="440" id="flash-content">
+    <param name="movie" value="http://media.y8.com/system/contents/23157/original/Sift_Heads_World_Act_5.swf">
+    <param name="quality" value="high">
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/23157/original/Sift_Heads_World_Act_5.swf"
+            width="800" height="440">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+      <!--<![endif]-->
+      <div class="getflashplayer">
+        <h2>Sorry, you have no flash player installed.</h2>
+        <h2>Please install flash player to see the content.</h2>
+        <a href="http://www.adobe.com/go/getflashplayer">
+          <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+        </a>
+        </div>
+      <!--[if !IE]>-->
+    </object>
+
+*sift_heads_world_act_5
+
+*******
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="550" height="375" id="flash-content">
+    <param name="movie" value="http://media.y8.com/system/contents/64541/original/batman_forever_-_Play_it_on_funfastgame.swf?1381382940">
+    <param name="quality" value="high">
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/64541/original/batman_forever_-_Play_it_on_funfastgame.swf?1381382940"
+            width="550" height="375">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+      <!--<![endif]-->
+      <div class="getflashplayer">
+        <h2>Sorry, you have no flash player installed.</h2>
+        <h2>Please install flash player to see the content.</h2>
+        <a href="http://www.adobe.com/go/getflashplayer">
+          <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+        </a>
+        </div>
+      <!--[if !IE]>-->
+    </object>
+
+*batman-forever
+
+*****
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="110" height="14" id="clippy" >
+        <param name="movie" value="http://img.y8.com/swf/clippy.swf" />
+        <param name="allowScriptAccess" value="always" />
+        <param name="quality" value="high" />
+        <param name="scale" value="noscale" />
+        <param name="FlashVars" value="text=&lt;a href=&quot;http://www.y8.com/games/air_strike&quot;&gt;&lt;img alt=&quot;Air-strike-unity-y8&quot; src=&quot;http://img.y8.com/system/screenshots/69381/original/air-strike-unity-y8.jpg&quot; /&gt;&lt;br /&gt;Air Strike&lt;br /&gt;Click here to play this game&lt;/a&gt;">
+        <param name="bgcolor" value="#000">
+        <embed src="http://img.y8.com/swf/clippy.swf"
+               width="110"
+               height="14"
+               name="clippy"
+               quality="high"
+               allowScriptAccess="always"
+               type="application/x-shockwave-flash"
+               pluginspage="http://www.macromedia.com/go/getflashplayer"
+               FlashVars="text=&lt;a href=&quot;http://www.y8.com/games/air_strike&quot;&gt;&lt;img alt=&quot;Air-strike-unity-y8&quot; src=&quot;http://img.y8.com/system/screenshots/69381/original/air-strike-unity-y8.jpg&quot; /&gt;&lt;br /&gt;Air Strike&lt;br /&gt;Click here to play this game&lt;/a&gt;"
+               bgcolor="#000"
+               />
+      </object>
+
+*air_strike
+
+********
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="700" height="500" id="flash-content">
+    <param name="movie" value="http://media.y8.com/system/contents/49105/original/kof1.8_en.swf?1351498345">
+    <param name="quality" value="high">
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/49105/original/kof1.8_en.swf?1351498345"
+            width="700" height="500">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+      <!--<![endif]-->
+      <div class="getflashplayer">
+        <h2>Sorry, you have no flash player installed.</h2>
+        <h2>Please install flash player to see the content.</h2>
+        <a href="http://www.adobe.com/go/getflashplayer">
+          <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+        </a>
+        </div>
+      <!--[if !IE]>-->
+    </object>
+
+*king_of_fighters_wing_1_7
+
+********

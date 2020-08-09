@@ -1,0 +1,14 @@
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="750" height="560" id="flash-content">
+    <param name="movie" value="http://media.y8.com/system/contents/33036/original/papasburgeria.swf?1317835554">
+    <param name="quality" value="high">
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://media.y8.com/system/contents/33036/original/papasburgeria.swf?1317835554"
+            width="750" height="560">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+
+
+
+
+
+PAPA'S BURGERIA

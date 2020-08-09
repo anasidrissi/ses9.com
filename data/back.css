@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+#arcade{
+	background:url(../tof/barcade.png);
+	background-attachment:fixed;
+}
+#combat{
+	background:url(../tof/bcombat.png);
+	background-attachment:fixed;
+}
+#course{
+	background:url(../tof/bcourse.png);
+	background-attachment:fixed;
+}
+#flappy{
+	background:url(../tof/bflappy.png);
+	background-attachment:fixed;
+}
+#td{
+	background:url(../tof/btd.png);
+}
+#aventure{
+	background:url(../tof/baventure.png);
+	background-attachment:fixed;
+}	
+#fille{
+	background:url(../tof/bfille.png);
+	background-attachment:fixed;
+}
+#mario{
+	background:url(../tof/bmario.png);
+	background-attachment:fixed;
+}
+#action{
+	background:url(../tof/baction.png);
+	background-attachment:fixed;
+}
+#online{
+	background:url(../tof/bonline.png);
+	background-attachment:fixed;
+}
+#multiplayer{
+	background:url(../tof/bmultiplayer.png);
+	background-attachment:fixed;
+}
+#tire{
+	background:url(../tof/btire.png);
+	background-attachment:fixed;
+}
+#sport{
+	background:url(../tof/bsport.png);
+	background-attachment:fixed;
+}
+.pagenav a:hover{
+	margin:10px;
+	padding:10px
+}
+.pagenav a{
+	margin:10px;
+	padding:10px;
+}
